@@ -1,0 +1,1 @@
+Juego adaptado de hundir la flota, con dos tableros y la maquina jugando aleatoriamente
